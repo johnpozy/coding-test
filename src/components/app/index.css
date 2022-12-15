@@ -1,0 +1,8 @@
+.app-wrapper {
+    padding: 1rem;
+    text-align: center;
+}
+
+.app-wrapper pre {
+    text-align: left;
+}
